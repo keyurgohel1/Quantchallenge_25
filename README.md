@@ -1,5 +1,3 @@
-# QuantChallenge 2025 Data Competition README
-
 ## Overview
 This document contains essential information for participating in the quantitative market research portion of **QuantChallenge 2025**, including rules, dataset structure, and scoring details.
 
